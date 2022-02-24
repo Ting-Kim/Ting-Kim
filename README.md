@@ -74,11 +74,15 @@
     - 좋아요, 가격제안, 알림, 아이템, 유저 관련 API 개발, AWS 이용한 자동 배포 프로세스 구축
     - 어플리케이션 서버 모니터링 및 장애 대응
 
+<br>
+
 ### [웹소켓을 이용한 채팅 웹 어플리케이션 개발(2021.02-진행중)](https://github.com/Ting-Kim/spring-chat-practice)
 
 - 개인 토이 프로젝트
 - 회원가입된 유저들과 개인 및 단체 채팅이 가능한 웹 어플리케이션
 - 기술 스택: Java, Spring Boot, JPA/Hibernate(ORM), QueryDSL, Thymeleaf, H2, Redis, WebSocket(SockJS) 등
+
+<br>
 
 ### 롯데오토케어 웹 어플리케이션(케어플러스) 운영 및 유지보수(2021.11-진행중)
 
