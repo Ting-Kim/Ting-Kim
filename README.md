@@ -64,11 +64,11 @@
 
 ### [굿즈덕(굿즈를 모으는 덕후들) 프로젝트 개발 및 운영(2021.05-2021.12)](https://github.com/soma-goodsduck) ([Backend Repository Link](https://github.com/soma-goodsduck/be-commons_spring-boot))
 
-- 팀원구성: (SW마에스트로 연수생) Frontend 1명 Backend 2명(본인 포함)
+- 팀원구성: (SW마에스트로 연수생) `Frontend 1명` `Backend 2명(본인 포함)`
 - 아이돌 굿즈를 중고거래할 수 있는 웹 어플리케이션
 - 웹/앱(Google 플레이스토어, Apple 앱스토어) 형태로 배포 및 운영
 - 기술 스택: Java, Spring Boot, JPA/Hibernate(ORM), QueryDSL, MySQL, Redis, AWS, Firebase Cloud Messaging 등
-- 누적 다운로드 1000+ 회, 운영기간 내 MAU 1,200 DAU 300 달성
+- 누적 다운로드 `1000+` 회, 운영기간 내 `MAU 1,200` `DAU 300` 달성
 - 수행 역할
     - (공통) 서비스 기획, 와이어프레임 설계 및 DB 설계, 마케팅/홍보
     - 좋아요, 가격제안, 알림, 아이템, 유저 관련 API 개발, AWS 이용한 자동 배포 프로세스 구축
