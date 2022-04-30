@@ -35,7 +35,6 @@
 - Python
     - Flask
     - Django
-- HTML & CSS & JavaScript (basic)
 
 **데이터베이스**
 
@@ -46,12 +45,12 @@
 **클라우드, 배포 관련**
 
 - AWS S3, AWS EC2, AWS CodeDeploy, AWS Secrets Manager, AWS AutoScaling, AWS Load Balancer, AWS IAM, AWS RDS
-- Docker(in studying)
+<!-- - Docker(in studying) -->
 - Github Action
 
 **메시징 시스템**
 
-- Apache Kafka(in studying)
+<!-- - Apache Kafka(in studying) -->
 - FCM(Firebase Cloud Messsaging)
 
 **프로젝트 관리**
