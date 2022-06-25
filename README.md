@@ -1,33 +1,36 @@
 <div align="center">
-    ![java-shield]
-    ![springboot-shield]
-    ![mysql-shield]
-    ![aws-shield]
-    ![s3-shield]
-    ![redis-shield]
-    ![firebase-shield]
-    ![python-shield]
-    ![django-shield]
-    ![flask-shield]
-
     
-    ## 👋🏻 안녕하세요. 백엔드 개발자에 도전하고 있는 김태호입니다 !
+![java-shield]
+![springboot-shield]
+![mysql-shield]
+![aws-shield]
+![s3-shield]
+![redis-shield]
+![firebase-shield]
+![python-shield]
+![django-shield]
+![flask-shield]
 
-    인생에서 가장 중요하게 생각하는게 성장입니다 👊🏻
 
-    다양한 경험 많은 사람들로 부터 항상 많은 걸 배우고자 합니다.
+## 👋🏻 안녕하세요. 백엔드 개발자에 도전하고 있는 김태호입니다 !
 
-    커피를 사랑하고, 주량은 약하지만 맥주와 치킨을 좋아합니다 🍻
+인생에서 가장 중요하게 생각하는게 성장입니다 👊🏻
 
-    🦮🐕‍🦺2마리의 강아지, 🐈고양이와 재미있게 살고 있습니다.
+다양한 경험 많은 사람들로 부터 항상 많은 걸 배우고자 합니다.
 
+커피를 사랑하고, 주량은 약하지만 맥주와 치킨을 좋아합니다 🍻
 
-    [Github](https://github.com/Ting-Kim)  |  [Blog(TIL)](https://ting-kim.github.io/) | taeho916@gmail.com
+🦮🐕‍🦺2마리의 강아지, 🐈고양이와 재미있게 살고 있습니다.
 
-    ![Ting-kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ting-kim&show_icons=true&theme=tokyonight)
+<br>
+
+[Github](https://github.com/Ting-Kim)  |  [Blog(TIL)](https://ting-kim.github.io/) | taeho916@gmail.com
+
+![Ting-kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ting-kim&show_icons=true&theme=tokyonight)
+
 </div>
 
----
+<br>
 
 ## 기술 스택
 
