@@ -65,7 +65,7 @@
 - 협업: Github, Notion
 - 모니터링: Sentry.io, NewRelic
 
----
+<br>
 
 ## 프로젝트 경험
 
@@ -97,7 +97,7 @@
 - 롯데정보통신 렌탈IS팀에서 업무 수행
 - 기술 스택: Java, Spring, MyBatis, Servlet/JSP, Tibero DB 등
 
----
+<br>
 
 ### History
 
@@ -110,8 +110,6 @@
 2019.06-2020.02 `한국NSK 생산관리 근무`
 
 (———- IT와 관계없는 이력 ———-)
-
----
 
 2020.03-2020.08 `쌍용교육센터 Java 기반 웹 개발 교육 수료`
 
