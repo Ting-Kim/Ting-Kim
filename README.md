@@ -83,6 +83,21 @@
     - AWS 이용한 자동 배포 프로세스 구축
     - 어플리케이션 서버 모니터링 및 장애 대응
 
+
+### [비어에어(Beer-air) 프로젝트 개발 (2022.03-2022.07)](https://github.com/depromeet/sulsul-BE)
+
+- 팀원구성: (디프만 멤버) `FE 3명` `BE 4명(본인 포함)` `Design 3명`
+- 세계 맥주에 대한 소개 및 개인 기록 기능을 제공하는 플랫폼
+- 웹/앱(Google 플레이스토어, Apple 앱스토어) 형태로 배포 
+- 기술 스택: Java, Spring Boot, JPA/Hibernate(ORM), QueryDSL, MySQL, Redis, AWS 등
+- 수행 역할
+    - (공통) 서비스 기획
+    - DB 설계
+    - QA 및 버그픽스
+    - 맥주 및 리뷰 도메인 CRUD, 이미지 업로드 기능 등 API 개발
+    - 쿼리 최적화
+    - 코드 리팩토링 및 코드 리뷰 진행
+
 <!-- <br>
 
 ### [웹소켓을 이용한 채팅 웹 어플리케이션 개발(2021.02-04)](https://github.com/Ting-Kim/spring-chat-practice)
@@ -123,6 +138,8 @@
 2021.11-2022.04  `롯데정보통신 SM사업본부 렌탈IS팀`
 
 2022.04-         `마이다스인 백엔드 개발 파트`
+
+2022.03-2022.07  `[디프만(depromeet) 동아리](https://github.com/depromeet) 11기 수료`
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
