@@ -139,7 +139,7 @@
 
 2022.04-         `마이다스인 백엔드 개발 파트`
 
-2022.03-2022.07  [`디프만(depromeet) 동아리`](https://github.com/depromeet) 11기 수
+2022.03-2022.07  [`디프만(depromeet) 동아리`](https://github.com/depromeet) 11기 멤버
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
