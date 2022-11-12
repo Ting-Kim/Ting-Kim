@@ -24,7 +24,7 @@
 
 <br>
 
-[Github](https://github.com/Ting-Kim)  |  [Blog(TIL)](https://ting-kim.github.io/) | taeho916@gmail.com
+[Github](https://github.com/Ting-Kim)  |  [Blog](https://ting-kim.github.io/) | taeho916@gmail.com
 
 ![Ting-kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ting-kim&show_icons=true&theme=tokyonight)
 
@@ -44,7 +44,7 @@
 
 **데이터베이스**
 
-- Oracle, **MySQL**
+- Oracle, **MySQL**, mariaDB
 - Redis
 - Firebase Real Time Database
 
@@ -58,12 +58,13 @@
 
 <!-- - Apache Kafka(in studying) -->
 - FCM(Firebase Cloud Messsaging)
+- Kafka
 
 **프로젝트 관리**
 
 - 형상관리: Git(Gitflow), SVN
-- 협업: Github, Notion
-- 모니터링: Sentry.io, NewRelic
+- 협업: Github, Bitbucket, Jira, Confluence, Notion
+- 모니터링: Sentry.io, NewRelic, Datadog
 
 <br>
 
@@ -82,13 +83,13 @@
     - AWS 이용한 자동 배포 프로세스 구축
     - 어플리케이션 서버 모니터링 및 장애 대응
 
-<br>
+<!-- <br>
 
-### [웹소켓을 이용한 채팅 웹 어플리케이션 개발(2021.02-진행중)](https://github.com/Ting-Kim/spring-chat-practice)
+### [웹소켓을 이용한 채팅 웹 어플리케이션 개발(2021.02-04)](https://github.com/Ting-Kim/spring-chat-practice)
 
 - 개인 토이 프로젝트
 - 회원가입된 유저들과 개인 및 단체 채팅이 가능한 웹 어플리케이션
-- 기술 스택: Java, Spring Boot, JPA/Hibernate(ORM), QueryDSL, Thymeleaf, H2, Redis, WebSocket(SockJS) 등
+- 기술 스택: Java, Spring Boot, JPA/Hibernate(ORM), QueryDSL, Thymeleaf, H2, Redis, WebSocket(SockJS) 등 -->
 
 <br>
 
@@ -119,9 +120,9 @@
 
 2021.05-2021.12 `SW마에스트로 12기 수료 (굿즈덕 플랫폼 - 백엔드개발)`
 
-2021.11-2022.04     `롯데정보통신 SM사업본부 렌탈IS팀 근무`
+2021.11-2022.04  `롯데정보통신 SM사업본부 렌탈IS팀`
 
-2022.04-현재         `마이다스인 HRP 그룹 성과관리개발셀 백엔드 파트 `
+2022.04-         `마이다스인 백엔드 개발 파트`
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
