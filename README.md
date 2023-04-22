@@ -52,7 +52,7 @@
 
 - AWS S3, AWS EC2, AWS CodeDeploy, AWS Secrets Manager, AWS AutoScaling, AWS Load Balancer, AWS IAM, AWS RDS
 <!-- - Docker(in studying) -->
-- Github Action
+- Github Action, Bitbucket pipeline
 
 **메시징 시스템**
 
@@ -66,23 +66,23 @@
 - 협업: Github, Bitbucket, Jira, Confluence, Notion
 - 모니터링: Sentry.io, NewRelic, Datadog
 
+
 <br>
 
-## 프로젝트 경험
+## Experience
 
-### [굿즈덕(굿즈를 모으는 덕후들) 프로젝트 개발 및 운영(2021.05-2021.12)](https://github.com/soma-goodsduck) ([Backend Repository Link](https://github.com/soma-goodsduck/be-commons_spring-boot))
+### Software Developer, 마이다스인 (2022.04-Present)
+- INHR+ 성과관리 서비스 개발 (Java, Spring-boot)
+- INHR+ 미팅 서비스 개발 (Java, Spring-boot)
+- 테스트 파이프라인 구축 (Junit, Bitbucket pipeline)
 
-- 팀원구성: (SW마에스트로 연수생) `Frontend 1명` `Backend 2명(본인 포함)`
-- 아이돌 굿즈를 중고거래할 수 있는 웹 어플리케이션
-- 웹/앱(Google 플레이스토어, Apple 앱스토어) 형태로 배포 및 운영
-- 기술 스택: Java, Spring Boot, JPA/Hibernate(ORM), QueryDSL, MySQL, Redis, AWS, Firebase Cloud Messaging 등
-- 누적 다운로드 `1000+` 회, 운영기간 내 `MAU 1,200` `DAU 300` 달성
-- 수행 역할
-    - (공통) 서비스 기획, 와이어프레임 설계 및 DB 설계, 마케팅/홍보
-    - 좋아요, 가격제안, 알림, 아이템, 유저 관련 API 개발
-    - AWS 이용한 자동 배포 프로세스 구축
-    - 어플리케이션 서버 모니터링 및 장애 대응
 
+### Software Engineer, 롯데정보통신 렌탈IS팀 (2021.11-2021.04)
+
+- 롯데오토케어 '케어플러스' 웹 어플리케이션 운영 및 유지보수
+- 기술 스택: Java, Spring, MyBatis, Servlet/JSP, Tibero DB 등
+
+<br>
 
 ### [비어에어(Beer-air) 프로젝트 개발 (2022.03-2022.07)](https://github.com/depromeet/sulsul-BE)
 
@@ -98,6 +98,22 @@
     - 쿼리 최적화
     - 코드 리팩토링 및 코드 리뷰 진행
 
+<br>
+
+### [굿즈덕(굿즈를 모으는 덕후들) 프로젝트 개발 및 운영 (2021.05-2021.12)](https://github.com/soma-goodsduck) ([Backend Repository Link](https://github.com/soma-goodsduck/be-commons_spring-boot))
+
+- 팀원구성: (SW마에스트로 연수생) `Frontend 1명` `Backend 2명(본인 포함)`
+- 아이돌 굿즈를 중고거래할 수 있는 웹 어플리케이션
+- 웹/앱(Google 플레이스토어, Apple 앱스토어) 형태로 배포 및 운영
+- 기술 스택: Java, Spring Boot, JPA/Hibernate(ORM), QueryDSL, MySQL, Redis, AWS, Firebase Cloud Messaging 등
+- 누적 다운로드 `1000+` 회, 운영기간 내 `MAU 1,200` `DAU 300` 달성
+- 수행 역할
+    - (공통) 서비스 기획, 와이어프레임 설계 및 DB 설계, 마케팅/홍보
+    - 좋아요, 가격제안, 알림, 아이템, 유저 관련 API 개발
+    - AWS 이용한 자동 배포 프로세스 구축
+    - 어플리케이션 서버 모니터링 및 장애 대응
+
+
 <!-- <br>
 
 ### [웹소켓을 이용한 채팅 웹 어플리케이션 개발(2021.02-04)](https://github.com/Ting-Kim/spring-chat-practice)
@@ -105,13 +121,6 @@
 - 개인 토이 프로젝트
 - 회원가입된 유저들과 개인 및 단체 채팅이 가능한 웹 어플리케이션
 - 기술 스택: Java, Spring Boot, JPA/Hibernate(ORM), QueryDSL, Thymeleaf, H2, Redis, WebSocket(SockJS) 등 -->
-
-<br>
-
-### 롯데오토케어 웹 어플리케이션(케어플러스) 운영 및 유지보수(2021.11-2021.04)
-
-- 롯데정보통신 렌탈IS팀에서 업무 수행
-- 기술 스택: Java, Spring, MyBatis, Servlet/JSP, Tibero DB 등
 
 <br>
 
@@ -137,7 +146,7 @@
 
 2021.11-2022.04  `롯데정보통신 SM사업본부 렌탈IS팀`
 
-2022.04-         `마이다스인 백엔드 개발 파트`
+2022.04-Present  `마이다스인 백엔드 개발 파트`
 
 2022.03-2022.07  [`디프만(depromeet) 동아리`](https://github.com/depromeet) 11기 멤버
 
