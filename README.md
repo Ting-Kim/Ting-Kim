@@ -76,11 +76,11 @@
 - INHR+ 미팅 서비스 개발 (Java, Spring-boot)
 - 테스트 파이프라인 구축 (Junit, Bitbucket pipeline)
 
+<br>
 
 ### Software Engineer, 롯데정보통신 렌탈IS팀 (2021.11-2021.04)
 
-- 롯데오토케어 '케어플러스' 웹 어플리케이션 운영 및 유지보수
-- 기술 스택: Java, Spring, MyBatis, Servlet/JSP, Tibero DB 등
+- 롯데오토케어 '케어플러스' 웹 어플리케이션 운영 및 유지보수 (Java, Spring)
 
 <br>
 
