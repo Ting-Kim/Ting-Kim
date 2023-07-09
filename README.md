@@ -21,7 +21,7 @@
 
 <br>
 
-[Github](https://github.com/Ting-Kim)  |  [Blog](https://ting-kim.github.io/) | taeho916@gmail.com
+[Github](https://github.com/Ting-Kim)  |  [Blog](https://ting-kim.tistory.com/) | taeho916@gmail.com
 
 ![Ting-kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ting-kim&show_icons=true&theme=tokyonight)
 
@@ -35,6 +35,7 @@
 
 - **Java**
     - **Spring Boot,** **JPA/Hibernate**, **QueryDSL**, MyBatis
+    - Junit5
 
 **데이터베이스**
 
@@ -52,7 +53,7 @@
 
 <!-- - Apache Kafka(in studying) -->
 - FCM(Firebase Cloud Messsaging)
-- Kafka
+- MSK
 
 **프로젝트 관리**
 
