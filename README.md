@@ -35,19 +35,16 @@
 
 - **Java**
     - **Spring Boot,** **JPA/Hibernate**, **QueryDSL**, MyBatis
-- Python
-    - Flask
-    - Django
 
 **데이터베이스**
 
-- Oracle, **MySQL**, mariaDB
+- **MySQL**, mariaDB
 - Redis
 - Firebase Real Time Database
 
 **클라우드, 배포 관련**
 
-- AWS S3, AWS EC2, AWS CodeDeploy, AWS Secrets Manager, AWS AutoScaling, AWS Load Balancer, AWS IAM, AWS RDS
+- AWS S3, AWS EC2, AWS CodeDeploy, AWS Secrets Manager, AWS AutoScaling, AWS Load Balancer, AWS RDS
 <!-- - Docker(in studying) -->
 - Github Action, Bitbucket pipeline
 
