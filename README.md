@@ -7,9 +7,6 @@
 ![s3-shield]
 ![redis-shield]
 ![firebase-shield]
-![python-shield]
-![django-shield]
-![flask-shield]
 
 
 ## 👋🏻 안녕하세요. 백엔드 개발자에 도전하고 있는 김태호입니다 !
@@ -126,15 +123,6 @@
 
 ### History
 
-2013.03-2019.08 `숭실대학교 기계공학과 졸업`
-
-2018.07-2018.09 `현대건설 H-Contech 2기 해외기술봉사단(베트남)`
-
-2018.09-2018.12 `LG전자 생산기술원 공정장비 인턴 근무`
-
-2019.06-2020.02 `한국NSK 생산관리 근무`
-
-(———- IT와 관계없는 이력 ———-)
 
 2020.03-2020.08 `쌍용교육센터 Java 기반 웹 개발 교육 수료`
 
@@ -146,9 +134,12 @@
 
 2021.11-2022.04  `롯데정보통신 SM사업본부 렌탈IS팀`
 
+2022.03-2022.07  [`디프만(depromeet) 동아리`](https://github.com/depromeet) 11기 멤버
+
 2022.04-Present  `마이다스인 백엔드 개발 파트`
 
-2022.03-2022.07  [`디프만(depromeet) 동아리`](https://github.com/depromeet) 11기 멤버
+2023.07-Present  [`Sipe 동아리`](https://sipe.team) 1기 멤버
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
