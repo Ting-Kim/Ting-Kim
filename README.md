@@ -97,7 +97,7 @@
 
 <br>
 
-### [굿즈덕(굿즈를 모으는 덕후들) 프로젝트 개발 및 운영 (2021.05-2021.12)](https://github.com/soma-goodsduck) ([Backend Repository Link](https://github.com/soma-goodsduck/be-commons_spring-boot))
+### [굿즈덕(굿즈를 모으는 덕후들) 프로젝트 개발 및 운영 (2021.05-2021.12)](https://github.com/soma-goodsduck) 
 
 - 팀원구성: (SW마에스트로 연수생) `Frontend 1명` `Backend 2명(본인 포함)`
 - 아이돌 굿즈를 중고거래할 수 있는 웹 어플리케이션
