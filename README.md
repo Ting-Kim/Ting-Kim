@@ -134,7 +134,7 @@
 
 2021.11-2022.04  `롯데정보통신 SM사업본부 렌탈IS팀`
 
-2022.03-2022.07  [`디프만(depromeet) 동아리`](https://github.com/depromeet) 11기 멤버
+2022.03-2022.07  [`디프만(depromeet) 동아리`](https://www.depromeet.com) 11기 멤버
 
 2022.04-Present  `마이다스인 백엔드 개발 파트`
 
