@@ -1,15 +1,4 @@
 
-[Blog](https://ting-kim.tistory.com/) | taeho916@gmail.com
-
-![java-shield]
-![springboot-shield]
-![mysql-shield]
-![aws-shield]
-![redis-shield]
-![apache-kafka]
-
-![Ting-kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ting-kim&show_icons=true&theme=tokyonight)
-
 <br>
 
 ### Work Experience
@@ -24,6 +13,21 @@
 - [디프만](https://www.depromeet.com/) 11기 멤버  <sub>2022.03 ~ 2022.07</sub>
 - [Sipe](https://sipe.team/) 1기 멤버 <sub>2023.07 ~ 2023.12</sub>
 
+<br>
+
+![java-shield]
+![springboot-shield]
+![mariadb-shield]
+![aws-shield]
+![redis-shield]
+![apache-kafka]
+
+
+<br>
+
+![Ting-kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ting-kim&show_icons=true&theme=tokyonight)
+
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
@@ -31,6 +35,7 @@
 [s3-shield]: https://img.shields.io/badge/AmazonS3-569A31.svg?&style=for-the-badge&logo=AmazonS3&logoColor=white
 [aws-shield]: https://img.shields.io/badge/AmazonAWS-232F3E.svg?&style=for-the-badge&logo=AmazonAWS&logoColor=white
 [mysql-shield]: https://img.shields.io/badge/MySQL-569A31.svg?&style=for-the-badge&logo=MySQL&logoColor=white
+[mariadb-shield]: https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white
 [springboot-shield]: https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white
 [java-shield]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white
 [redis-shield]: https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white
