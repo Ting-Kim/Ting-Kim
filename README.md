@@ -1,6 +1,3 @@
-
-<br>
-
 ### Work Experience
 ---
 - [MIDASIN](https://midasit.notion.site/MIDAS-IN-a9fffb2e45fb4519bfb7ae69e032f1f9) **Backend Developer**  <sub>2022.04 ~ Present</sub>
